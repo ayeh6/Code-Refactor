@@ -68,7 +68,7 @@ main {
     margin-left: 20px;
 }
 
-article {
+section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -77,11 +77,11 @@ article {
     color: #ffffff;
 }
 
-article img {
+section img {
     max-height: 200px;    
 }
 
-article h2 {
+section h2 {
     margin-bottom: 20px;
     font-size: 36px;    
 }
